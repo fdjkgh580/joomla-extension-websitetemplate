@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.6" method="upgrade">
+    <name>Website Template 網站模版</name>
+    <packagename>websitetemplate</packagename>
+    <version>1.0.0</version>
+    <files folder="packages">
+        <file type="component" id="com_websitetemplate" >com_websitetemplate.zip</file>
+        <file type="plugin" id="websitetemplate" group="editors-xtd">websitetemplate.zip</file>
+    </files>
+</extension>
