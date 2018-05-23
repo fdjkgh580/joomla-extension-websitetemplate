@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="package" version="1.6" method="upgrade">
-    <name>Website Template 網站模版</name>
+    <name>pkgWebsitetemplate</name>
     <packagename>websitetemplate</packagename>
     <version>1.0.0</version>
     <files folder="packages">
