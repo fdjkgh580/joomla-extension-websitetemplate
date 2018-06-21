@@ -5,7 +5,7 @@
     <creationDate>2018-06-21</creationDate>
     <author>Jason</author>
     <authorEmail>fdjkgh580@gmail.com</authorEmail>
-    <version>0.1.4</version>
+    <version>0.1.5</version>
     <files folder="packages">
         <file type="component" id="com_websitetemplate" >com_websitetemplate.zip</file>
         <file type="plugin" id="websitetemplate" group="editors-xtd">websitetemplate.zip</file>
